@@ -17,4 +17,4 @@ elif which=="A" or which=="2":
 else:
 	print("Please choose overwrite or append")
 
-input("\nWrite successful press ENTER to continue")
+input("\nWrite successful press ENTER to continue\n")

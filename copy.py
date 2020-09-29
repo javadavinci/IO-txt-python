@@ -10,4 +10,4 @@ for line in f:
 	print(line)
 file.close()
 paster.close()
-input("\nCopying successful press ENTER to continue")
+input("\nCopying successful press ENTER to continue\n")

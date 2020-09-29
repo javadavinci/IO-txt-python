@@ -4,4 +4,4 @@ rename = input("Enter what you would like to rename the file to: ")
 
 os.rename(file, rename)
 
-input("\nRenaming successful press ENTER to continue")
+input("\nRenaming successful press ENTER to continue\n")
